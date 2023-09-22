@@ -5,3 +5,9 @@
 # Table of Contents
 
 # Portfolio Projects
+
+# Education
+
+# Certificates
+
+# Contact Information
