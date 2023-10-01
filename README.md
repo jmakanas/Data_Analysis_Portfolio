@@ -1,5 +1,3 @@
-# Data_Analysis_Portfolio
-
 # About
 
 Hello, I'm James Makanas, and I'm excited to share my journey of transformation from the world of finance to the captivating realm of data analytics. Finance was the field I had originally chosen, but as I moved forward, I realized I had a natural inclination towards data-driven decision making, and thus, the evolving dynamics of our data-driven world have led me to make a bold career switch.
