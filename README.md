@@ -6,9 +6,9 @@ The decision to pivot towards data analytics is a testament to my recognition of
 
 # Portfolio Projects
 
-## Python
+### Python
 
-### Analyzing Predictors of Heart Disease
+#### Analyzing Predictors of Heart Disease
 Goal: To create a binary classification model that utilizes health status indicitors to accurately predict whether or not someone is prone to heart disease.
 
 Description: The project focuses on analyzing a data set from the 2020 CDC Health Status Survey. The dataset includes 18 different health status indicators such as smoking, drinking, BMI, etc. The model created is validated utilizing 10-fold cross validation on a portion of the training data not utilized to develop the model.
