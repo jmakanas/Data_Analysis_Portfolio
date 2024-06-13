@@ -24,7 +24,7 @@ Results: The model created was able to accurately predict heart disease on the t
 #### Texas Housing Market
 Goal: To aid potential homebuyers in the state of Texas
 
-Description: The project focuses on creating a variety of visualizations based on numerous datasets such as interest rates, Texas Housing Price Index, the United States Housing Price Index, Texas industry employment, and Texas industry salary, in order to create a data story that could've helped a potential homebuyer make an informed decision in the year of 2021 when it was created.
+Description: The project focuses on creating a variety of visualizations based on numerous datasets such as interest rates, Texas Housing Price Index, the United States Housing Price Index, Texas industry employment, and Texas industry salary, in order to create a data story that would've helped a potential homebuyer make an informed decision in the year of 2021 when it was created.
 
 Skills: Data analysis, data visualization
 
