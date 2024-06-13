@@ -4,6 +4,8 @@ Hello, I'm James Makanas, and I'm excited to share my transition from the world 
 
 The decision to pivot towards data analytics is a testament to my recognition of the importance of data in today's information-rich landscape. I obtained my undergraduate degree in Finance in the state of Arizona, and then I moved back to Dallas, TX and made the decision to pursue my master's degree in business analytics at the University of Dallas.
 
+I currently have experience with Excel, Python, SQL, Tableau, Power BI, RStudio.
+
 # Portfolio Projects
 
 ### Python
