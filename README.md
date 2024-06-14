@@ -21,6 +21,16 @@ Technology: Python, numby, pandas, sklearn, matplotlib
 
 Results: The model created was able to accurately predict heart disease on the test data with 91.41% accuracy.
 
+### SQL
+
+#### Cleaning Nashville Housing Data
+Goal: To clean Nashville Housing Data and format it into a way where each column offers data in a way that is easily usable for future queries
+
+Description: The project focuses on practicing basic data cleaning on a Nashville Housing dataset that is not ready to be used for analytical queries. In the project, I separate columns with grouped information, remove duplicate values, and fill null values with information offered within the original dataset.
+
+Skills: The project practices basic SQL functions such as converting dates, parcing information, creation of new columns, and removal of old unformatted columns
+
+
 ### Tableau
 
 #### Texas Housing Market
