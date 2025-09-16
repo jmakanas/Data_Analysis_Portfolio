@@ -28,7 +28,7 @@ Goal: To clean Nashville Housing Data and format it into a way where each column
 
 Description: The project focuses on practicing basic data cleaning on a Nashville Housing dataset that is not ready to be used for analytical queries. In the project, I separate columns with grouped information, remove duplicate values, and fill null values with information offered within the original dataset.
 
-Skills: The project practices basic SQL functions such as converting dates, parcing information, creation of new columns, and removal of old unformatted columns
+Skills: The project practices basic SQL functions such as converting dates, parcing information, creating new columns, and removing old unformatted columns.
 
 
 ### Tableau
@@ -36,10 +36,10 @@ Skills: The project practices basic SQL functions such as converting dates, parc
 #### Texas Housing Market
 Goal: To aid potential homebuyers in the state of Texas
 
-Description: The project focuses on creating a variety of visualizations based on numerous datasets such as interest rates, Texas Housing Price Index, the United States Housing Price Index, Texas industry employment, and Texas industry salary, in order to create a data story that would've helped a potential homebuyer make an informed decision in the year of 2021 when it was created.
+Description: The project focuses on creating a variety of visualizations based on numerous datasets such as interest rates, Texas Housing Price Index, the United States Housing Price Index, Texas industry employment, and Texas industry salary to create a data story that would've helped a potential homebuyer make an informed decision in the year of 2021 when it was created.
 
 Skills: Data analysis, data visualization
 
 Technology: Tableau
 
-Results: Because of record low interest rates, less volatility in TX HPI compared to US HPI, and employment growth in nearly all job sectors in Texas, it would have been a good time to purchase a home in August 2021; however specific people such as those within the mining industry and those within the utilities industry would have needed to be more caution before entering the Texas housing market because of the specific decline in those industries.
+Results: Because of record low interest rates, less volatility in TX HPI compared to US HPI, and employment growth in nearly all job sectors in Texas, it would have been a good time to purchase a home in August 2021. However, specific people such as those within the mining industry and the utilities industry would have needed to be more cautious before entering the Texas housing market because of the specific decline in those industries.
